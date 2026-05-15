@@ -1,6 +1,3 @@
-# Oscar - Exercícios SQL
-
-
 # Oscar - Banco de Dados
 
 Bem-vindo à base de dados do **Oscar**!
